@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! I'm Divy, a Freelance App Developer from India 🚀</h1>
+<h1 align="center">Hi 👋! I'm Divy, a Web and App Developer from India 🚀</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divysinghvi&show_icons=true&theme=dracula&hide_border=true" height="170" alt="GitHub Stats" />
