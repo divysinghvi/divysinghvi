@@ -1,66 +1,59 @@
-## Hi there! 👋
+<h1 align="left">Hi 👋! My name is Divy and I'm a ..., from India</h1>
 
-I'm Divy Singhvi, an engineering student who loves building cool stuff. Currently, I work as an app and web developer.
+###
 
-## About Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divysinghvi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divysinghvi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-Based in [Your Location], I'm passionate about technology and enjoy creating innovative solutions. I'm constantly learning and expanding my skills in app development and web technologies.
+###
 
-## Skills & Technologies
+<img align="right" height="150" src="https://ibb.co/LNkWrz1"  />
 
-cpp,dart,html,css,flutter,git,docker,graphql,react,nodejs,java,kotlin,mysql,postgres,aws,linux,androidstudio,visualstudio,vue,bootstrap,firebase,heroku,php,rails
+###
 
-## Top Projects
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+</div>
 
-### [GroceryWalla](https://github.com/divysinghvi/GroceryWalla)  
-A Flutter app UI enabling seamless item purchase and cart management.  
-🌟 Stars: 0  
-🔧 Language: C++  
+###
 
-### [UrbanBuy](https://github.com/divysinghvi/UrbanBuy)  
-An innovative e-commerce platform.  
-🌟 Stars: 0  
-🔧 Language: Dart  
+<div align="left">
+  <a href="https://www.instagram.com/divysinghvi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="s_dv0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="divysinghvi5@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-### [Coffee Cafe](https://github.com/divysinghvi/coffee_cafe)  
-A minimalistic UI of a coffee shop made with Flutter.  
-🌟 Stars: 0  
-🔧 Language: C++  
+###
 
-### [Satori](https://github.com/divysinghvi/satori)  
-Developer-friendly Kubernetes UI.  
-🌟 Stars: 0  
-🔧 Language: HTML  
+<br clear="both">
 
-### [Demo-Pages](https://github.com/divysinghvi/Demo-Pages)  
-A collection of demo pages for various projects.  
-🌟 Stars: 0  
-🔧 Language: C++  
+<img src="https://raw.githubusercontent.com/divysinghvi/divysinghvi/output/snake.svg" alt="Snake animation" />
 
-
-## GitHub Stats
-
-- Public Repos: 13  
-- Followers: 1  
-- Following: 2  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divysinghvi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divysinghvi&layout=compact&theme=radical)  
-
-
-## Recent Activity
-
-- **Updated Join, home and download page** in [Satori](https://github.com/ViditJain123/satori/pull/8)  
-- **Opened a pull request** in [Satori](https://github.com/ViditJain123/satori/pull/7)  
-- **Pushed changes** to [Satori](https://github.com/divysinghvi/satori)  
-- **Closed a pull request** in [Satori](https://github.com/ViditJain123/satori/pull/6)  
-- **Opened a pull request** in [Satori](https://github.com/ViditJain123/satori/pull/5)  
-
-
-## Latest Blog Posts
-
-No recent blog posts available.
-
-## Connect with Me
-
-{"instagram":"https://www.instagram.com/divycaptures/","linkedin":"https://www.linkedin.com/in/divy-singhvi-748752278/"}
+###
