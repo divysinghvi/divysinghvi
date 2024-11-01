@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Divy and I'm a [Your Profession/Interest], from India</h1>
+<h1 align="left">Hi 👋! I'm Divy, a Freelance App Developer from India 🚀</h1>
 
 ###
 
@@ -59,3 +59,14 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/divysinghvi/divysinghvi/output/snake.svg" alt="Snake animation" />
+
+### About Me 🧑‍💻
+
+- **Passionate about App Development** - Specializing in Flutter with a strong focus on UI/UX
+- **Hackathon Enthusiast** - Always ready to take on new challenges
+- **Warehouse Management Systems Developer** - Created custom solutions for tracking, alerts, and operations
+- **Currently exploring** - Computer vision and NLP for healthcare solutions
+
+---
+
+This setup is visually appealing, includes relevant skills and languages, and provides more detail about your background. Just replace `[Your Profession/Interest]` and update any links as needed!
