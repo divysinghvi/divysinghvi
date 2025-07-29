@@ -3,11 +3,6 @@
   🧠 Full-stack dev · ⚙️ OSS Contributor · 🔧 Systems Builder · 🚀 Always Debugging Life
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divysinghvi&show_icons=true&theme=dracula&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divysinghvi&layout=compact&theme=dracula&hide_border=true" height="170" alt="Top Languages" />
-</div>
-
 ## Who am I?
 
 - **Member of Kubernetes. Newbie contributor to Kubernetes/minikube**  <br/>
@@ -21,6 +16,11 @@
 - Clash of Clans veteran. Town Hall 13, fully maxed.  
   Strong walls, stronger Wi-Fi.
 <br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divysinghvi&show_icons=true&theme=dracula&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divysinghvi&layout=compact&theme=dracula&hide_border=true" height="170" alt="Top Languages" />
+</div>
 
 <h3 align="center">Connect with Me</h3>
 <div align="center">
@@ -39,17 +39,6 @@
 </div>
 
 <br>
-
----
-
-### About Me 🧑‍💻
-
-- **Passionate about App Development and Web Development** - Specializing in Flutter and MERN stack.
-- **Hackathon Enthusiast** - Always ready to take on new challenges.
-- **Warehouse Management Systems Developer** - Created solutions for tracking, alerts, and operations.
-- **Currently Exploring** - Computer vision and NLP for healthcare solutions.
-
----
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/divysinghvi?label=Follow%20Me&style=social" alt="GitHub Followers" />
