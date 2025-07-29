@@ -8,7 +8,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divysinghvi&layout=compact&theme=dracula&hide_border=true" height="170" alt="Top Languages" />
 </div>
 
+## Who am I?
 
+- **Member of Kubernetes. Newbie contributor to Kubernetes/minikube**  <br/>
+  I occasionally show up with PRs and comments, sometimes they even get merged.  
+
+- Undergrad at College of Technology and Engineering, Udaipur.<br>
+  B.Tech in Electronics & Communication. Most fluent in Stack Overflow and terminal.
+
+- Intern at EF Polymer. Built warehouse & sales ops systems for agriculture supply chains.
+  
+- Clash of Clans veteran. Town Hall 13, fully maxed.  
+  Strong walls, stronger Wi-Fi.
 <br>
 
 <h3 align="center">Connect with Me</h3>
