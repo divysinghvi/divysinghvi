@@ -5,14 +5,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divysinghvi&layout=compact&theme=dracula&hide_border=true" height="170" alt="Top Languages" />
 </div>
 
-<br>
-
-<div align="center">
-  <img height="150" src="https://i.postimg.cc/p9JVMn83/a-clean-and-simple-NFT-art-profile-picture-of-a-web-and-mobile-developer-with-glasses-1.jpg" alt="Profile Picture" style="border-radius: 50%;" />
-</div>
-
-<br>
-
 
 <br>
 
