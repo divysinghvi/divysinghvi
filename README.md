@@ -8,8 +8,7 @@
 - **Member of Kubernetes. Newbie contributor to Kubernetes/minikube**  <br/>
   I occasionally show up with PRs and comments, sometimes they even get merged.  
 
-- Undergrad at College of Technology and Engineering, Udaipur.<br>
-  B.Tech in Electronics & Communication. Most fluent in Stack Overflow and terminal.
+- Most fluent in Stack Overflow and terminal.
 
 - Intern at EF Polymer. Built warehouse & sales ops systems for agriculture supply chains.
   
