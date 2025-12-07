@@ -5,7 +5,7 @@
 
 ## Who am I?
 
-- **Member of Kubernetes. Newbie contributor to Kubernetes/minikube**  <br/>
+- **Member of Kubernetes. Newbie contributor to CNCF Kubernetes/minikube**  <br/>
   I occasionally show up with PRs and comments, sometimes they even get merged.  
 
 - Most fluent in Stack Overflow and terminal.
