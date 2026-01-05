@@ -10,7 +10,9 @@
 
 - Most fluent in Stack Overflow and terminal.
 
-- Intern at EF Polymer. Built warehouse & sales ops systems for agriculture supply chains.
+- Working @gradr
+
+- Ex Intern at EF Polymer. Built warehouse & sales ops systems for agriculture supply chains.
   
 - Clash of Clans veteran. Town Hall 13, fully maxed.  
   Strong walls, stronger Wi-Fi.
