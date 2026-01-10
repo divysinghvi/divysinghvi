@@ -18,10 +18,10 @@
   Strong walls, stronger Wi-Fi.
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divysinghvi&show_icons=true&theme=dracula&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divysinghvi&layout=compact&theme=dracula&hide_border=true" height="170" alt="Top Languages" />
-</div>
+<p align="center">
+  <img height="170" src="https://stats.anuraghazra.dev/api?username=divysinghvi&show_icons=true&theme=dracula&hide_border=true" />
+  <img height="170" src="https://stats.anuraghazra.dev/api/top-langs?username=divysinghvi&layout=compact&theme=dracula&hide_border=true" />
+</p>
 
 <h3 align="center">Connect with Me</h3>
 <div align="center">
