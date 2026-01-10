@@ -19,9 +19,9 @@
 <br>
 
 <p align="center">
-  <img height="170" src="https://stats.anuraghazra.dev/api?username=divysinghvi&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="170" src="https://stats.anuraghazra.dev/api/top-langs?username=divysinghvi&layout=compact&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divysinghvi&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
 </p>
+
 
 <h3 align="center">Connect with Me</h3>
 <div align="center">
