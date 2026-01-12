@@ -14,7 +14,7 @@
 
 - Ex Intern at EF Polymer. Built warehouse & sales ops systems for agriculture supply chains.
   
-- Clash of Clans veteran. Town Hall 13, fully maxed.  
+- Clash of Clans veteran. Town Hall 15.  
   Strong walls, stronger Wi-Fi.
 <br>
 
