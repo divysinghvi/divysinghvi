@@ -10,7 +10,7 @@
 
 - Most fluent in Stack Overflow and terminal.
 
-- Working @gradr
+- Buliding at @gradr
 
 - Ex Intern at EF Polymer. Built warehouse & sales ops systems for agriculture supply chains.
   
